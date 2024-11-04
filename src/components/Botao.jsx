@@ -2,7 +2,7 @@
 
 function Botao({content, link, target}) {
     return ( 
-       <button href={link} 
+       <a href={link} 
        
        className="
        border-2 
@@ -17,7 +17,7 @@ function Botao({content, link, target}) {
       target={target}
       >
         {content}
-      </button>
+      </a>
      )
 }
 

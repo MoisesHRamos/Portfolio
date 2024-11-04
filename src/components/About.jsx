@@ -21,7 +21,6 @@ function About () {
                         <Techology img="devicon-vitejs-plain colored" name="Vitejs"/>
                     </div>
                     <div className="container py-8">
-                        <h1 className="text-3xl pb-4">Portfólios</h1>
                         <Portfolios img="devicon-gitbook-original"  />
                     </div>
                 </div>

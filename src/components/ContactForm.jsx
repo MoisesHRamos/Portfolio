@@ -25,7 +25,7 @@ function verificarCep(e){
 }
 
   return (
-    <form className="p-6 bg-white rounded-lg shadow-md">
+    <form className="p-6 bg-gray-300 rounded-lg shadow-md">
       <div className="mb-4">
         <label htmlFor="name">Nome Completo</label>
         <input
